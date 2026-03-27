@@ -1,6 +1,7 @@
 Remote SSH dari AWS EC2 Server
 
 1.unduh dan Install Putty di https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+![alt text](image-3.png)
 
 2.Konversi ekstensi Private Key dari .pem menjadi .ppk
 
