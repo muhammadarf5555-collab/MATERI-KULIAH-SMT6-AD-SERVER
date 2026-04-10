@@ -18,7 +18,10 @@ load private key .ppk di menu Connection->SSH->Auth->Credential
 user dari instance masing-masing (ubuntu)
 ![alt text](image-1.png)
 
-4.Pembuktian Remote SSH secara visual
-
+4.Setiap memulai sesi Remote, lakukan Upadte OS terlebih dahulu
+sudo apt-get update && sudo apt-get upgrade
+instal salah satu web srver
+sudo apt install nginx 
+5.Pembuktian Remote SSH secara visual
 Copy IP addres instance paste ke browser
 ![alt text](image-2.png)
