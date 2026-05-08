@@ -35,4 +35,3 @@ login sebagai usrcompro_NIM dan cek apakah bisa akses ke DB yang baru dibuat
 
 ![alt text](image-6.png)
 ![alt text](image-7.png)
-
