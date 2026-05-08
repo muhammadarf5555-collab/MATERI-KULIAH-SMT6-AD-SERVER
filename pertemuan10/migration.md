@@ -47,3 +47,5 @@ https://nodejs.org/en/download
 12. Akses http://[IP_ADDRESS]:3000
 13. akses BE http://[IP_ADDRESS]:3000/admin edit berita ke 2 tambahkan nama - nim
 ![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
