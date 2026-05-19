@@ -12,7 +12,7 @@
 9. Lakukan Testing di Local Project Next.JS
     - Install Dependencies: `npm install`
     - Create user di DBMS : `sudo mysql -u root -p`
-        - `CREATE USER 'userwebdinamis_nim'@'localhost' IDENTIFIED BY 'O)xz6GWEwDOx1Ea9';`
+        - `CREATE USER 'userwebdinamis_2388010017'@'localhost' IDENTIFIED BY 'Arifrizky12345678';`
         - `GRANT ALL PRIVILEGES ON *.* TO 'userwebdinamis_nim'@'localhost';`
         - `FLUSH PRIVILEGES;`
         - `exit;`
