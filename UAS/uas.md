@@ -62,7 +62,13 @@ Aplikasi Web Multi-Kontainer dengan GitHub Actions CI/CD & AWS Deployment
     DB_PASSWORD=arif1234567891123
 ![alt text](image-8.png)
  10. Live Test Zero Touch
-![alt text](image-6.png)
+    -disini kta liat kita bikin perubahan di web dinamis kita bisa liat kalau web nya jalan melakukan perubahan yang ada di github di action
+    - jadi ada nama MUHAMMAD ARIF RIZKY di card techanime
+![alt text](image-17.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-18.png)
+
 11. mengekill web yang sedang jalan agar tidak eror
 ![alt text](image-9.png)
 12. web statis
